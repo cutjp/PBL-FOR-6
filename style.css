@@ -56,11 +56,6 @@ section ul {
   text-align: center;
   font-size: 35px;
   width: 200%;
-}
-video {
-  width: 150%;
-  height: auto;
-}
 
 section::after {
   content: "";
